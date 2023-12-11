@@ -1,0 +1,27 @@
+h1{
+    color:orange;
+    color: slategrey;
+    font-size: 20px;
+    text-decoration: underline;
+    font:Arial. Helvetica, sans-serif;
+    text-align:center:
+}
+p{
+    color:slategray;
+    text-align: right;
+    line-height: 30px;
+    letter-spacing: 3px;
+    columns: 2;
+    content: 60px;
+}
+
+ul{
+    border-width: 4px;
+    border-style: solid;
+    border-color: crimson;
+    border-left: 8px dashed crimson;
+}
+
+li{
+    list-style-type: none;
+}
